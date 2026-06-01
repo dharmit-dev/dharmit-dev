@@ -1,28 +1,14 @@
-# <h1 align="center">Hi 👋, I'm Dharmit Monani</h1>
+<div align="center">
 
-<h3 align="center">🚀 Full Stack MERN Developer | 🔐 Cyber Security Enthusiast</h3>
+# Hi 👋 I'm Dharmit Monani
 
-<p align="center">
-  Building Secure, Scalable & Modern Web Applications
-</p>
+### 🚀 Full Stack MERN Developer | 🔐 Cyber Security Enthusiast
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Cyber+Security+Enthusiast;Building+Secure+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
-</p>
-
----
-
-<h1 align="center">Hi 👋, I'm Dharmit Monani</h1>
-
-<h3 align="center">🚀 Full Stack MERN Developer | 🔐 Cyber Security Enthusiast</h3>
-
-<p align="center">
 Building Secure, Scalable & Modern Web Applications
-</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Cyber+Security+Enthusiast;Building+Secure+Web+Applications;Always+Learning+New+Technologies" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Cyber+Security+Enthusiast;Building+Secure+Web+Applications;MERN+Stack+%7C+Node.js+%7C+React;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
@@ -30,10 +16,10 @@ Building Secure, Scalable & Modern Web Applications
 
 * 🎓 Computer Engineering Student
 * 💻 Full Stack MERN Developer
-* 🔐 Cyber Security Enthusiast
+* 🔐 Passionate about Cyber Security
 * 🌱 Currently learning Advanced Backend Development
-* 🚀 Passionate about solving real-world problems through technology
-* ⚡ Love building modern, secure and scalable applications
+* 🚀 Building real-world web applications
+* ⚡ Love solving problems through technology
 
 ---
 
@@ -64,81 +50,78 @@ Building Secure, Scalable & Modern Web Applications
 ### 🍲 Smart Food Donation & Distribution Management System
 
 * MERN Stack Application
-* Role Based Authentication
+* Role-Based Authentication
 * JWT Authentication
-* Donation Tracking System
+* Donation Tracking Workflow
+* NGO & Volunteer Coordination
 * Google Maps Integration
-* NGO & Volunteer Management
 * Admin Dashboard
 
 ### 🚗 AutoElite
 
 * Premium Second-Hand Car Marketplace
 * MERN Stack Architecture
-* Modern Responsive UI
-* Contact & Inquiry System
+* Modern Responsive Interface
+* Vehicle Listings & Inquiry System
 
 ### 🛕 Holeshwar Mahadev Temple
 
 * Temple Information Platform
-* Event Management Features
-* Responsive Full Stack Application
+* Event & Announcement Management
+* Responsive Full Stack Website
 
 ### 📚 OIBSIP Projects
 
 * Frontend Development Projects
+* JavaScript Applications
 * Responsive UI Design
-* JavaScript Based Applications
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
-<p align="center">
+<div align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=dharmit-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmit-dev&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
+</div>
+
+<div align="center">
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmit-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dharmit-dev&theme=tokyonight&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 📈 Activity Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmit-dev&theme=tokyo-night" />
-</p>
+</div>
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://github.com/dharmit-dev">
+<a href="https://github.com/dharmit-dev" target="_blank">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
 
-<a href="https://linkedin.com">
+<a href="https://www.linkedin.com/in/dharmitmonani" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 </p>
 
 ---
 
-## 🔐 Motto
+## 🔐 Developer Motto
 
 ```text
 Code • Build • Secure
 ```
 
-⭐ Turning Ideas into Secure & Scalable Solutions
+⭐ Turning Ideas Into Secure & Scalable Solutions
+
+---
+
+<div align="center">
+
+### Thanks for visiting my profile! 🚀
+
+</div>
