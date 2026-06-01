@@ -12,6 +12,20 @@
 
 ---
 
+<h1 align="center">Hi 👋, I'm Dharmit Monani</h1>
+
+<h3 align="center">🚀 Full Stack MERN Developer | 🔐 Cyber Security Enthusiast</h3>
+
+<p align="center">
+Building Secure, Scalable & Modern Web Applications
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+MERN+Developer;Cyber+Security+Enthusiast;Building+Secure+Web+Applications;Always+Learning+New+Technologies" />
+</p>
+
+---
+
 ## 👨‍💻 About Me
 
 * 🎓 Computer Engineering Student
@@ -47,58 +61,59 @@
 
 ## 🚀 Featured Projects
 
-### 🍲 Smart Food Donation & Distribution System
+### 🍲 Smart Food Donation & Distribution Management System
 
 * MERN Stack Application
 * Role Based Authentication
-* Donation Tracking
+* JWT Authentication
+* Donation Tracking System
 * Google Maps Integration
 * NGO & Volunteer Management
+* Admin Dashboard
 
 ### 🚗 AutoElite
 
 * Premium Second-Hand Car Marketplace
-* MERN Stack
+* MERN Stack Architecture
 * Modern Responsive UI
 * Contact & Inquiry System
 
 ### 🛕 Holeshwar Mahadev Temple
 
-* Temple Information & Event Management Platform
-* Full Stack Web Application
+* Temple Information Platform
+* Event Management Features
+* Responsive Full Stack Application
 
 ### 📚 OIBSIP Projects
 
-* Multiple Frontend Development Projects
-* Responsive UI Implementations
+* Frontend Development Projects
+* Responsive UI Design
+* JavaScript Based Applications
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=dharmit-dev&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dharmit-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=dharmit-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmit-dev&theme=tokyonight" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmit-dev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=dharmit-dev&theme=tokyonight&row=1&column=7" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmit-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dharmit-dev&theme=tokyonight&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 📈 Activity Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmit-dev&theme=tokyo-night" />
@@ -112,11 +127,15 @@
 <a href="https://github.com/dharmit-dev">
 <img src="https://skillicons.dev/icons?i=github" />
 </a>
+
+<a href="https://linkedin.com">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
 </p>
 
 ---
 
-### 🔐 Motto
+## 🔐 Motto
 
 ```text
 Code • Build • Secure
