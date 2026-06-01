@@ -1,16 +1,125 @@
-## Hi there 👋
+# <h1 align="center">Hi 👋, I'm Dharmit Monani</h1>
 
-<!--
-**dharmit-dev/dharmit-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🚀 Full Stack MERN Developer | 🔐 Cyber Security Enthusiast</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Building Secure, Scalable & Modern Web Applications
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;Cyber+Security+Enthusiast;Building+Secure+Web+Applications;Always+Learning+New+Technologies" alt="Typing SVG" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+* 🎓 Computer Engineering Student
+* 💻 Full Stack MERN Developer
+* 🔐 Cyber Security Enthusiast
+* 🌱 Currently learning Advanced Backend Development
+* 🚀 Passionate about solving real-world problems through technology
+* ⚡ Love building modern, secure and scalable applications
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
+</p>
+
+### Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🍲 Smart Food Donation & Distribution System
+
+* MERN Stack Application
+* Role Based Authentication
+* Donation Tracking
+* Google Maps Integration
+* NGO & Volunteer Management
+
+### 🚗 AutoElite
+
+* Premium Second-Hand Car Marketplace
+* MERN Stack
+* Modern Responsive UI
+* Contact & Inquiry System
+
+### 🛕 Holeshwar Mahadev Temple
+
+* Temple Information & Event Management Platform
+* Full Stack Web Application
+
+### 📚 OIBSIP Projects
+
+* Multiple Frontend Development Projects
+* Responsive UI Implementations
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dharmit-dev&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dharmit-dev&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dharmit-dev&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=dharmit-dev&theme=tokyonight&row=1&column=7" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dharmit-dev&theme=tokyo-night" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://github.com/dharmit-dev">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+</p>
+
+---
+
+### 🔐 Motto
+
+```text
+Code • Build • Secure
+```
+
+⭐ Turning Ideas into Secure & Scalable Solutions
